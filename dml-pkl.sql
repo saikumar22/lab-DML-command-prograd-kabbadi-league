@@ -92,7 +92,7 @@ WHERE TEAM_ID = 10;
 DELETE FROM EXTRA_TYPE WHERE ID =1 ;
 
 --18. Delete from referee
-DELETE FROM REFEREE WHERE ID = 1;
+DELETE FROM REFEREE WHERE ID = 30;
 --19. Delete from player
 DELETE FROM PLAYER WHERE TEAM_ID = 1;
 --20. Delete from outcome
